@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">easetudy</string>
+    <string name="termsandpolicy">I agree to the <b>eaSeTUDY </b> terms and policy.</string>
+
+
+    <!--- image slider -->
+
+    <!--- headings -->
+    <string name="heading_one">Text Scanner</string>
+    <string name="heading_two">Quiz and Reminder</string>
+    <string name="heading_three">Language Translator and Dictionary</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+
+    <!--- Description -->
+    <string name="desc_one">You can convert scans - scanned images or scanned documents - to text</string>
+    <string name="desc_two">Check out our <b>quiz</b> and <b>reminder</b> selection for the very best in unique or custom, handmade pieces</string>
+    <string name="desc_three"><b>Language Translator</b> and <b>Dictionary</b> definitions, pronouncations, synonyms, examples and supporting languages.</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+
+    <!--- sidebar menu -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!--- facebook sign in -->
+    <string name="facebook_app_id">289068460016943</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+    <!-- Reminder feature -->
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this task as completed.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congrats!... You have completed the task successfully..</string>
+
+</resources>
